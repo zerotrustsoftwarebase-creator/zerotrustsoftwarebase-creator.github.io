@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "my.social.data.space",
+      "sha256_cert_fingerprints": [
+        "E3:F6:1B:E0:7A:39:AD:E4:18:6C:5E:1F:68:E4:04:6F:D3:89:87:55:21:CA:6F:D6:05:0D:18:F3:06:33:8C:F8"
+      ]
+    }
+  }
+]
